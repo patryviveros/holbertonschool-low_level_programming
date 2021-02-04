@@ -840,7 +840,8 @@ extern void funlockfile (FILE *__stream) __attribute__ ((__nothrow__ , __leaf__)
 
 
 
+
 int main(void)
 {
-return (0);
+  return (0);
 }
