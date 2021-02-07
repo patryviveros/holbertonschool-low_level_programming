@@ -13,7 +13,7 @@ int main(void)
 {
 	int letter;
 
-	for (letter = 65; letter < 90; ++letter)
+	for (letter = 97; letter < 123; ++letter)
 	{
 		putchar (letter);
 	}
