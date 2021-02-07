@@ -1,0 +1,1 @@
+firts code: assign a random number to the variable n each tiem it is execute.
