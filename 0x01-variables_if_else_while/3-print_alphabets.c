@@ -14,11 +14,11 @@ int main(void)
 {
 	int letter = 97;
 
-	while (letter < 122)
+	while (letter < 123)
 {
 	putchar (letter);
 	letter++;
-	if (letter == 122)
+	if (letter == 123)
 		letter = 65;
 
 	if (letter == 91)
