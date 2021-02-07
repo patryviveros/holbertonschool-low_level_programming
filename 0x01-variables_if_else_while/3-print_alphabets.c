@@ -16,7 +16,6 @@ int main(void)
 
 	while (letter < 122)
 {
-	putchar (10);
 	putchar (letter);
 	letter++;
 	if (letter == 122)
@@ -26,5 +25,6 @@ int main(void)
 		break;
 
 }
+	putchar(10);
 	return (0);
 }
